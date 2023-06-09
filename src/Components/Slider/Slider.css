@@ -1,0 +1,45 @@
+ .sliderContainer {
+     padding: 0px 0px;
+     margin-top: 20px;
+     overflow: hidden;
+ }
+ 
+ .sldieWrap {
+     width: 100%;
+     height: 80vh;
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+     overflow: hidden;
+ }
+ 
+ .slderImg {
+     width: 45%;
+     height: 100%;
+ }
+ 
+ .slderImg img {
+     width: 100%;
+     height: 100%;
+ }
+ 
+ .sliderCaption {
+     width: 50%;
+ }
+ 
+ .sliderCaption h1 {
+     font-size: 60px;
+     font-weight: 500;
+     text-transform: uppercase;
+     margin-bottom: 20px;
+ }
+ 
+ .sliderCaption h3 {
+     font-size: 30px;
+     font-weight: 500;
+     text-transform: capitalize;
+ }
+ 
+ .carousel-indicators {
+     display: none;
+ }

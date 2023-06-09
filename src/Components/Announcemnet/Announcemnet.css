@@ -1,0 +1,11 @@
+.annouContainer{
+    height: 30px;
+    background-color :rgb(11, 80, 73);
+    color: white;
+    padding: 20px;
+    font-weight:    500;
+    font-size: 17px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
